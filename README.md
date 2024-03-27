@@ -21,7 +21,7 @@ git clone https://github.com/derealizations/VarietiBot.git
 cd VarietiBot
 ```
 ```bash
-replace YOURCHANNELID with the channel you want annoucementsin
+replace YOURCHANNELID with the channel you want annoucements in
 replace YOURBOTSTOKEN with your bots token
 replace OWNERSUSERID with the owners user id
 replace OWNERSROLEID with the owners role id
