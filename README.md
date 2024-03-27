@@ -32,4 +32,4 @@ pip install -r requirements.txt
 ```bash
 python3 VarietBot.py
 ```
-### Questions?[Join our Discord server](https://discord.gg/28mFzDeG6U)
+### Questions? [Join our Discord server](https://discord.gg/28mFzDeG6U)
